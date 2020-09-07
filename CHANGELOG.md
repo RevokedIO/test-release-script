@@ -1,3 +1,13 @@
+<a name="10.2.0-next.0"></a>
+# 10.2.0-next.0 (2020-09-07)
+
+
+### Bug Fixes
+
+* **router:** ensure routerLinkActive updates when associated routerLinks change ([#38511](https://github.com/angular/angular/issues/38511)) ([dbfb50e](https://github.com/angular/angular/commit/dbfb50e)), closes [#18469](https://github.com/angular/angular/issues/18469)
+
+
+
 <a name="10.1.0-next.6"></a>
 # 10.1.0-next.6 (2020-08-17)
 
